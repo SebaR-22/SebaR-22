@@ -2,6 +2,7 @@
   "name": "react-github-page",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Seba-R22.github.io/react-github-page.git/build",
 
   "dependencies": {
     "cra-template": "1.2.0",
