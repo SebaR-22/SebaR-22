@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: cadetblue;
+  padding: 1rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  color: white;
+}
+
+.nav {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}

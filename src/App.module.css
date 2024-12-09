@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  flex: 1;
+  padding: 2rem;
+  background-image: url(/media/OIP.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+}

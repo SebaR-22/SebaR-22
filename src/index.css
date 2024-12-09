@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url(/media/OIP.jpg);
+}
+
+* {
+  box-sizing: border-box;
+}
+
